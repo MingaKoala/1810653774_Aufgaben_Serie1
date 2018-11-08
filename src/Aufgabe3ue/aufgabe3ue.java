@@ -8,6 +8,11 @@ public class aufgabe3ue {
         System.out.println(name);
         int alter = 24;
         System.out.println(alter);
+        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol"; // Verkürzter Name Fachhochscule Kufstein Tirol
+                                                                          // final Konstante
+
+
+
     }
 
 

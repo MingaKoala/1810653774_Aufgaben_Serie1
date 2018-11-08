@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a7de36f-f9b6-4a16-a503-22c583e8596d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe3ue/aufgabe3ue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1810653774_Aufgaben_Serie1/Aufgabe3ue/aufgabe3ue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe3ue/aufgabe3ue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe3ue/aufgabe3ue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="aufgabe3ue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe3ue/aufgabe3ue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -189,12 +190,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541663677057</updated>
-      <workItem from="1541663690667" duration="6255000" />
+      <workItem from="1541663690667" duration="7205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6255000" />
+    <option name="totallyTimeSpent" value="7205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1206" height="1047" extended-state="0" />
@@ -202,7 +203,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32893288" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32893288" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -211,10 +212,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.31243125" />
+      <window_info anchor="bottom" id="Terminal" weight="0.31243125" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29232112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29232112" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufgabe3ue/aufgabe3ue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="170">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
